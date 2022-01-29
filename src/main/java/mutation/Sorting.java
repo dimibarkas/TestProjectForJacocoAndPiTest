@@ -2,8 +2,9 @@ package mutation;
 
 public class Sorting {
 
-    void sort(int[] arr) {
+    void sort(int[] arr) throws ArrayIsEmptyException {
         int n = arr.length;
+        if(n == 0) throw new ArrayIsEmptyException("empty array provided");
         for (int i = 1; i < n; ++i) {
             int key = arr[i];
             int j = i - 1;
