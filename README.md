@@ -2,7 +2,7 @@
 
 This repository holds the application code of Unit-Test Runner.
 
-##Dependencies
+## Dependencies
 
 * mvn (v3.8.4)
 * jacoco (v.0.8.7)
@@ -19,11 +19,34 @@ mvn test
 
 ## Coverage Report 
 
-To generate the coverage report run:
+To generate the coverage report with Jacoco run:
 
 ```
 mvn test
 ```
+
+and 
+
+```
+mvn jacoco:report
+```
+
+## MutationTest Coverage
+
+To generate the coverage report with PiTest (mutations) run:
+
+```
+mvn test
+```
+
+and
+
+```
+mvn pitest:mutationCoverage
+```
+
+
+
 
 
 
