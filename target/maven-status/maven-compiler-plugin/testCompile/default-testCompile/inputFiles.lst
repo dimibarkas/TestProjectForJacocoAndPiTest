@@ -1,2 +1,9 @@
-/Users/dimitriosbarkas/testcheckerwithmaven/src/test/java/mutation/SortingTest.java
+/Users/dimitriosbarkas/testcheckerwithmaven/src/test/java/mutation/StringUtilTest.java
+/Users/dimitriosbarkas/testcheckerwithmaven/src/test/java/mutation/SensorDataTest.java
+/Users/dimitriosbarkas/testcheckerwithmaven/src/test/java/mutation/StatisticUtilTest.java
+/Users/dimitriosbarkas/testcheckerwithmaven/src/test/java/mutation/CalculatorTest.java
 /Users/dimitriosbarkas/testcheckerwithmaven/src/test/java/mutation/PalindromeTest.java
+/Users/dimitriosbarkas/testcheckerwithmaven/src/test/java/mutation/BubbleSortTest.java
+/Users/dimitriosbarkas/testcheckerwithmaven/src/test/java/mutation/InsertionSortTest.java
+/Users/dimitriosbarkas/testcheckerwithmaven/src/test/java/mutation/CamelizeTest.java
+/Users/dimitriosbarkas/testcheckerwithmaven/src/test/java/mutation/PhoneBookTest.java

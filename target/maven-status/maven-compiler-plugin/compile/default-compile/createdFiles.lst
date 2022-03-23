@@ -1,1 +1,7 @@
 mutation/Palindrome.class
+mutation/Calculator.class
+mutation/ArrayIsEmptyException.class
+mutation/StringUtil.class
+mutation/InsertionSort.class
+mutation/StatisticUtil.class
+mutation/LineHasWrongSyntaxException.class

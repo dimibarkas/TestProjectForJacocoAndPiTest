@@ -23,7 +23,9 @@
                 <artifactId>pitest-maven</artifactId>
                 <version>1.7.3</version>
                 <configuration>
-                    <exportLineCoverage>true</exportLineCoverage>
+                    <mutators>STRONGER</mutators>
+<!--                    <exportLineCoverage>true</exportLineCoverage>-->
+<!--                    <outputFormats>xml</outputFormats>-->
                 </configuration>
             </plugin>
             <plugin>

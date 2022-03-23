@@ -1,1 +1,5 @@
+mutation/InsertionSortTest.class
 mutation/PalindromeTest.class
+mutation/StatisticUtilTest.class
+mutation/CalculatorTest.class
+mutation/StringUtilTest.class
